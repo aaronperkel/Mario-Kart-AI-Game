@@ -1,4 +1,4 @@
-# M3OEP-aperkel-oacook
+# Mario Kart AI Game
 Aaron Perkel and Owen Cook
 
 This is a continuation of our [M2OEP](https://github.com/uvmcs2300s2024/M2OEP-aperkel-oacook). It takes the game output and creates an AI description of the game (as if the AI were a commentator). It also uses a Google Image web scraper to get images of the characters. Also, the game is now created at random with each run, rather than just one sample game.
