@@ -1,0 +1,110 @@
+4
+Moo Moo Meadows
+3
+2
+Cloudtop Cruise
+3
+5
+Baby Park
+7
+1
+Animal Crossing
+3
+2
+12
+Donkey Kong
+100.0
+bike
+Yoshi Bike
+1.0
+Rollers
+0.1
+0.2
+Wiggler
+75.0
+bike
+Yoshi Bike
+1.0
+GLA Tires
+0.5
+0.1
+Daisy
+50.0
+bike
+Yoshi Bike
+1.0
+Rollers
+0.1
+0.2
+Villager Female
+50.0
+car
+Mach 8
+0.65
+Rollers
+0.1
+0.2
+Morton
+125.0
+bike
+Yoshi Bike
+1.0
+Cushion Tires
+1.0
+0.65
+Ludwig
+75.0
+car
+Biddy Buggy
+0.75
+Cushion Tires
+1.0
+0.65
+Dry Bowser
+125.0
+car
+Biddy Buggy
+0.75
+GLA Tires
+0.5
+0.1
+Baby Peach
+10.0
+car
+Biddy Buggy
+0.75
+Cushion Tires
+1.0
+0.65
+Baby Luigi
+10.0
+car
+Biddy Buggy
+0.75
+GLA Tires
+0.5
+0.1
+Shy Guy
+25.0
+car
+Mach 8
+0.65
+Cushion Tires
+1.0
+0.65
+Wendy
+25.0
+bike
+Yoshi Bike
+1.0
+Rollers
+0.1
+0.2
+Wiggler
+75.0
+car
+Teddy Buggy
+0.7
+GLA Tires
+0.5
+0.1

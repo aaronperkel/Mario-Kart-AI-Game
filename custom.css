@@ -1,0 +1,82 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(200, 200, 200);
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+/* Warning and info styles */
+.warning, .info {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.warning {
+    background-color: #ffc107;
+    border: 1px solid #ffc107;
+}
+
+.info {
+    background-color: #2196f3;
+    border: 1px solid #2196f3;
+}
+
+.warning p, .info p {
+    margin: 0;
+}
+
+/* Form styles */
+form {
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+/* Results section styles */
+figure {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

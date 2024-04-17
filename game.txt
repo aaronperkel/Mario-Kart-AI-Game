@@ -1,0 +1,73 @@
+=================== MARIO KART ===================
+
+Round 1: Moo Moo Meadows | 3 Laps | Difficulty: **
+1. Daisy | Yoshi Bike | Rollers | POINTS EARNED: 15 | TOTAL POINTS: 15
+2. Wiggler | Teddy Buggy | GLA Tires | POINTS EARNED: 12 | TOTAL POINTS: 12
+3. Dry Bowser | Biddy Buggy | GLA Tires | POINTS EARNED: 10 | TOTAL POINTS: 10
+4. Villager Female | Mach 8 | Rollers | POINTS EARNED: 9 | TOTAL POINTS: 9
+5. Ludwig | Biddy Buggy | Cushion Tires | POINTS EARNED: 8 | TOTAL POINTS: 8
+6. Wiggler | Yoshi Bike | GLA Tires | POINTS EARNED: 7 | TOTAL POINTS: 7
+7. Baby Luigi | Biddy Buggy | GLA Tires | POINTS EARNED: 6 | TOTAL POINTS: 6
+8. Morton | Yoshi Bike | Cushion Tires | POINTS EARNED: 5 | TOTAL POINTS: 5
+9. Shy Guy | Mach 8 | Cushion Tires | POINTS EARNED: 4 | TOTAL POINTS: 4
+10. Donkey Kong | Yoshi Bike | Rollers | POINTS EARNED: 3 | TOTAL POINTS: 3
+11. Baby Peach | Biddy Buggy | Cushion Tires | POINTS EARNED: 2 | TOTAL POINTS: 2
+12. Wendy | Yoshi Bike | Rollers | POINTS EARNED: 1 | TOTAL POINTS: 1
+
+Round 2: Cloudtop Cruise | 3 Laps | Difficulty: *****
+1. Wiggler | Teddy Buggy | GLA Tires | POINTS EARNED: 15 | TOTAL POINTS: 27
+2. Ludwig | Biddy Buggy | Cushion Tires | POINTS EARNED: 12 | TOTAL POINTS: 20
+3. Baby Luigi | Biddy Buggy | GLA Tires | POINTS EARNED: 10 | TOTAL POINTS: 16
+4. Dry Bowser | Biddy Buggy | GLA Tires | POINTS EARNED: 9 | TOTAL POINTS: 19
+5. Villager Female | Mach 8 | Rollers | POINTS EARNED: 8 | TOTAL POINTS: 17
+6. Wendy | Yoshi Bike | Rollers | POINTS EARNED: 7 | TOTAL POINTS: 8
+7. Morton | Yoshi Bike | Cushion Tires | POINTS EARNED: 6 | TOTAL POINTS: 11
+8. Donkey Kong | Yoshi Bike | Rollers | POINTS EARNED: 5 | TOTAL POINTS: 8
+9. Wiggler | Yoshi Bike | GLA Tires | POINTS EARNED: 4 | TOTAL POINTS: 11
+10. Daisy | Yoshi Bike | Rollers | POINTS EARNED: 3 | TOTAL POINTS: 18
+11. Shy Guy | Mach 8 | Cushion Tires | POINTS EARNED: 2 | TOTAL POINTS: 6
+12. Baby Peach | Biddy Buggy | Cushion Tires | POINTS EARNED: 1 | TOTAL POINTS: 3
+
+Round 3: Baby Park | 7 Laps | Difficulty: *
+1. Dry Bowser | Biddy Buggy | GLA Tires | POINTS EARNED: 15 | TOTAL POINTS: 34
+2. Daisy | Yoshi Bike | Rollers | POINTS EARNED: 12 | TOTAL POINTS: 30
+3. Shy Guy | Mach 8 | Cushion Tires | POINTS EARNED: 10 | TOTAL POINTS: 16
+4. Wiggler | Teddy Buggy | GLA Tires | POINTS EARNED: 9 | TOTAL POINTS: 36
+5. Wiggler | Yoshi Bike | GLA Tires | POINTS EARNED: 8 | TOTAL POINTS: 19
+6. Ludwig | Biddy Buggy | Cushion Tires | POINTS EARNED: 7 | TOTAL POINTS: 27
+7. Wendy | Yoshi Bike | Rollers | POINTS EARNED: 6 | TOTAL POINTS: 14
+8. Baby Peach | Biddy Buggy | Cushion Tires | POINTS EARNED: 5 | TOTAL POINTS: 8
+9. Morton | Yoshi Bike | Cushion Tires | POINTS EARNED: 4 | TOTAL POINTS: 15
+10. Baby Luigi | Biddy Buggy | GLA Tires | POINTS EARNED: 3 | TOTAL POINTS: 19
+11. Donkey Kong | Yoshi Bike | Rollers | POINTS EARNED: 2 | TOTAL POINTS: 10
+12. Villager Female | Mach 8 | Rollers | POINTS EARNED: 1 | TOTAL POINTS: 18
+
+Round 4: Animal Crossing | 3 Laps | Difficulty: **
+1. Villager Female | Mach 8 | Rollers | POINTS EARNED: 15 | TOTAL POINTS: 33
+2. Shy Guy | Mach 8 | Cushion Tires | POINTS EARNED: 12 | TOTAL POINTS: 28
+3. Morton | Yoshi Bike | Cushion Tires | POINTS EARNED: 10 | TOTAL POINTS: 25
+4. Dry Bowser | Biddy Buggy | GLA Tires | POINTS EARNED: 9 | TOTAL POINTS: 43
+5. Donkey Kong | Yoshi Bike | Rollers | POINTS EARNED: 8 | TOTAL POINTS: 18
+6. Wiggler | Teddy Buggy | GLA Tires | POINTS EARNED: 7 | TOTAL POINTS: 43
+7. Wiggler | Yoshi Bike | GLA Tires | POINTS EARNED: 6 | TOTAL POINTS: 25
+8. Daisy | Yoshi Bike | Rollers | POINTS EARNED: 5 | TOTAL POINTS: 35
+9. Baby Luigi | Biddy Buggy | GLA Tires | POINTS EARNED: 4 | TOTAL POINTS: 23
+10. Baby Peach | Biddy Buggy | Cushion Tires | POINTS EARNED: 3 | TOTAL POINTS: 11
+11. Wendy | Yoshi Bike | Rollers | POINTS EARNED: 2 | TOTAL POINTS: 16
+12. Ludwig | Biddy Buggy | Cushion Tires | POINTS EARNED: 1 | TOTAL POINTS: 28
+
+============ RESULTS ============
+Dry Bowser WINS!!!
+
+Dry Bowser - 43 points
+Wiggler - 43 points
+Daisy - 35 points
+Villager Female - 33 points
+Shy Guy - 28 points
+Ludwig - 28 points
+Morton - 25 points
+Wiggler - 25 points
+Baby Luigi - 23 points
+Donkey Kong - 18 points
+Wendy - 16 points
+Baby Peach - 11 points

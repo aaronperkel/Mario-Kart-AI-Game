@@ -1,0 +1,43 @@
+3
+Moo Moo Meadows
+3
+2
+Coconut Mall
+3
+3
+Baby Park
+7
+1
+4
+Mario
+100.0
+car
+Teddy Buggy
+0.7
+GLA Tires
+0.5
+1.0
+Luigi
+120.0
+bike
+Yoshi Bike
+1.0
+Rollers
+0.1
+0.2
+Toad
+50.0
+car
+Mach 8
+1.0
+Cushion Tires
+1.0
+0.65
+Pink Gold Peach
+60.0
+car
+Biddy Buggy
+0.75
+Rollers
+0.1
+0.2
